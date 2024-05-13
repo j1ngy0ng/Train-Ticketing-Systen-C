@@ -1,0 +1,9 @@
+STF002|Lim Wai Kit|M|abcd777777|1234|Administrator 
+STF003|Lin Sheng Jie|M|jie7749774|0987|Administrator 
+STF004|Wong Woon Wai|M|wai1234567|0124|Administrator 
+STF005|Lim Tian You|M|lim7890101|5678|Administrator 
+STF006|Lim Wai Tim|F|lim4567891|1243|Administrator 
+STF007|Lin Jie Jie|F|jiejie1314|1578|Administrator 
+STF008|Lee Zi Wei|M|lee0505050|0070|Administrator 
+STF009|Lee Zhong Wei|M|chipi12345|4532|Administrator 
+STF010|Lim Kit Wai|M|monster123|1314|Administrator
